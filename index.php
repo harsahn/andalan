@@ -83,7 +83,7 @@
         <?php
         $a = 15;
         for ($i = 0; $i < $a; $i++) { ?>
-          <div class="col col-sm-12 col-lg-3">
+          <div class="col col-sm-12 col-lg-3 mb-5">
             <div class="card box-gambar">
               <img src="image/rumah.jpg" class="card-img-top" alt="...">
               <div class="card-body">
