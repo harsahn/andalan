@@ -16,6 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Roboto:wght@500&display=swap" rel="stylesheet">
   <!-- ICON -->
   <link rel="stylesheet" href="assets/icon/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/icon/icofont/css/icofont.css">
